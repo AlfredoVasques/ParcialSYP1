@@ -1,0 +1,5 @@
+1- Explique con sus palabras, qué entiende por sistema. (5%)
+respueta..
+un sistema se compone de uno o mas componentes que pueden ser fisicos o conceptuales, de estos 
+cada uno de los componentes puede funcionar de manera idependiente pero en conjunto forman un sistema
+ como una computadora con cada una de sus partes ejemplo: mause, teclado, monitor, etc
