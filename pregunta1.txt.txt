@@ -30,3 +30,10 @@ establecer metas
 Es necesario considerar que cualquier organismo requiere mecanismos de control, 
 que incluyen la comparación de los resultados obtenidos con las metas esperadas, así 
 como la toma de decisiones correctivas en su caso. 
+
+6- Explique ¿por qué la toma de decisiones estratégicas en una organización, sería mejor utilizando sistemas
+informáticos? (5%)
+Gracias a los sistemas de información, usando gráficos resolutivos y diagramas 
+interactivos, la toma de decisiones estratégicas será mucho más sencilla y fiable. 
+Podrás consultar históricos, tendencias, comparaciones y sacar verdadero provecho a
+los datos.
