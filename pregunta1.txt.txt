@@ -3,3 +3,17 @@ respueta..
 un sistema se compone de uno o mas componentes que pueden ser fisicos o conceptuales, de estos 
 cada uno de los componentes puede funcionar de manera idependiente pero en conjunto forman un sistema
  como una computadora con cada una de sus partes ejemplo: mause, teclado, monitor, etc
+
+2- Mencione 3 ejemplos de sistemas abiertos y 3 ejemplos de sistemas cerrados (deben ser ejemplos distintos a los
+comentados en clase). (5%)
+respueta..
+sistema cerrado..
+Una batería de un auto.
+El motor de una heladera.
+Un globo inflado.
+
+sistema abierto..
+Un río.
+Un animal.
+Una bacteria.
+Una ciudad.
