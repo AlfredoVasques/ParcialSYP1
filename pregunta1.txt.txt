@@ -50,3 +50,10 @@ estructurado vinculado con el entorno.
  El problema principal que se enfrenta, es el cambio en la circunstancia de la organización y la necesidad
  imperativa de vencer una serie de obstáculos o problemas derivados del presente y del futuro, sin lo cual
  no es posible que la organización pueda desarrollarse adecuadamente.
+
+9- ¿Por qué es importante conocer el organigrama de una organización al momento de realizar un análisis de los
+cambios o mejoras que se pueden hacer en esta? (5%)
+Un organigrama es la representación gráfica de la estructura de una empresa o 
+cualquier otra organización, que incluye las estructuras departamentales y, en algunos 
+casos, las personas que las dirigen, hacen un esquema sobre las relaciones jerárquicas 
+y competenciales
